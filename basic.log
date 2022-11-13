@@ -1,0 +1,96 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Выполняю поиск
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:54:39] "GET /search/?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:54:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:54:40] "GET /uploads/images/AdKWMHry3uI.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:54:40] "GET /uploads/images/imgonline-com-ua-PicOnPic-mkltwAnUAx.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:54:40] "GET /uploads/images/Photo_overlay_10.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:55:42] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:55:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Загруженный файл не картинка
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:56:38] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:56:42] "GET /post HTTP/1.1" 200 -
+INFO:root:Загруженный файл не картинка
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:57:18] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:57:20] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:57:20] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:57:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Загруженный файл не картинка
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:57:41] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:57:43] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:57:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:57:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняю поиск
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:57:53] "GET /search/?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:57:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:57:53] "[36mGET /uploads/images/AdKWMHry3uI.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:57:53] "[36mGET /uploads/images/imgonline-com-ua-PicOnPic-mkltwAnUAx.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:57:53] "[36mGET /uploads/images/Photo_overlay_10.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:58:11] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:58:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:58:21] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:58:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:58:21] "GET /uploads/images/0ad456bd7e42e732aa5eee1960640159.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:58:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:58:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняю поиск
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:58:26] "GET /search/?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:58:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:58:26] "[36mGET /uploads/images/Photo_overlay_10.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:58:26] "[36mGET /uploads/images/AdKWMHry3uI.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:58:26] "[36mGET /uploads/images/imgonline-com-ua-PicOnPic-mkltwAnUAx.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:58:26] "[36mGET /uploads/images/0ad456bd7e42e732aa5eee1960640159.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:58:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 13:58:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Выполняю поиск
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:01:27] "GET /search/?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:01:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:01:28] "[36mGET /uploads/images/AdKWMHry3uI.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:01:28] "[36mGET /uploads/images/Photo_overlay_10.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:01:28] "[36mGET /uploads/images/imgonline-com-ua-PicOnPic-mkltwAnUAx.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:01:28] "[36mGET /uploads/images/0ad456bd7e42e732aa5eee1960640159.jpg HTTP/1.1[0m" 304 -
+INFO:root:Выполняю поиск
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:01:49] "GET /search/?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:01:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:01:49] "[36mGET /uploads/images/AdKWMHry3uI.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:01:49] "[36mGET /uploads/images/imgonline-com-ua-PicOnPic-mkltwAnUAx.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:01:49] "[36mGET /uploads/images/Photo_overlay_10.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:01:49] "[36mGET /uploads/images/0ad456bd7e42e732aa5eee1960640159.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Выполняю поиск
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:01:59] "GET /search/?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:00] "[36mGET /uploads/images/AdKWMHry3uI.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:00] "[36mGET /uploads/images/Photo_overlay_10.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:00] "[36mGET /uploads/images/0ad456bd7e42e732aa5eee1960640159.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:00] "[36mGET /uploads/images/imgonline-com-ua-PicOnPic-mkltwAnUAx.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:21] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Выполняю поиск
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:23] "GET /search/?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:23] "[36mGET /uploads/images/AdKWMHry3uI.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:23] "[36mGET /uploads/images/imgonline-com-ua-PicOnPic-mkltwAnUAx.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:23] "[36mGET /uploads/images/Photo_overlay_10.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:23] "[36mGET /uploads/images/0ad456bd7e42e732aa5eee1960640159.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:28] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2022 14:02:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
